@@ -1,0 +1,6 @@
+framework module CompentSub {
+  umbrella header "CompentSub-umbrella.h"
+
+  export *
+  module * { export * }
+}

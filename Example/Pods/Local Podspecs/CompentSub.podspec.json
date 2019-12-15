@@ -1,0 +1,22 @@
+{
+  "name": "CompentSub",
+  "version": "0.1.0",
+  "summary": "A short description of CompentSub.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lhq0410/CompentSub",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lhq0410": "2564597760@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lhq0410/CompentSub.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CompentSub/Classes/**/*"
+}
